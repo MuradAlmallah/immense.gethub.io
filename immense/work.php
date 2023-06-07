@@ -665,30 +665,6 @@
                 });
             }
         </script>
-        <script>
-            $(document).on("ready", function() {
-                $(document).scroll(function() {
-                    var scroll_start = $(this).scrollTop();
-                    if (scroll_start > 50) {
-                        $(".navbar-default").addClass('navColor');
-                        $(".cd-primary-nav").removeClass('cd-primary-nav-older-page');
-                        $(".scrollTop").fadeIn();
-                        $(".navbar-brand img").attr('src', 'https://www.chetu.com/img/logo-new-home.png');
-                        $("#top-bar").css("background-color", "#fff");
-                        $(".opacity-top").addClass('sticky-top-bar');
-                        $("#blog-old-header").removeClass('cd-main-header-z-index-0');
-                    } else {
-                        $(".navbar-default").removeClass('navColor');
-                        $(".cd-primary-nav").addClass('cd-primary-nav-older-page');
-                        $(".scrollTop").fadeOut();
-                        $(".navbar-brand img").attr('src', 'https://www.chetu.com/img/logo-new-home.png');
-                        $("#top-bar").css("background-color", "");
-                        $(".opacity-top").removeClass('sticky-top-bar');
-                        $("#blog-old-header").addClass('cd-main-header-z-index-0');
-                    }
-                })
-            });
-        </script>
         <script type="text/javascript" src="https://www.chetu.com/js/slick.min.js?v=7b584"></script>
         <script type="text/javascript" src="https://www.chetu.com/js/infinite.js?v=fe960"></script>
         <script src="https://www.chetu.com/js/jquery.ellipsis.js"></script>

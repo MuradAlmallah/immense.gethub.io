@@ -52,7 +52,7 @@
                     <div class="clearfix hidden visible-sm"></div>
                     <div class="col-xs-12 col-sm-6 col-md-2 padding-top-15 footer-links d-flex justify-content-end flex-column">
                         <p class="no-margin-top text-uppercase font-bold">استكشف</p>
-                        <p class="no-margin-top"><a href="home.php" class="">خدماتنا</a></p>
+                        <p class="no-margin-top"><a href="index.php" class="">خدماتنا</a></p>
                         <p class="no-margin-top"><a href="aboutus.php" class="">من نحن</a></p>
                         <p class="no-margin-top"><a href="clients.php" class="">عملائنا</a></p>
                         <p class="no-margin-top"><a href="work.php" class="">عملنا</a></p>
