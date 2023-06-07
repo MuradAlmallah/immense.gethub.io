@@ -1,0 +1,414 @@
+html[lang="ar"] .CTA-button {
+  background: url(../img/CTA-spanish-Button.png) center top no-repeat;
+}
+@media (min-width: 0px) and (max-width: 610px) {
+  html[lang="ar"] .home-page-tabs li {
+    width: 100%;
+  }
+}
+@media (min-width: 1100px) and (max-width: 1464px) {
+  html[lang="ar"] .home-page-tabs li a {
+    min-height: 64px;
+  }
+}
+@media (min-width: 610px) and (max-width: 631px) {
+  html[lang="ar"] .home-page-tabs li a {
+    min-height: 84px;
+  }
+}
+@media (min-width: 541px) and (max-width: 610px) {
+  html[lang="ar"] .home-page-tabs li a .br-hidden {
+    display: none !important;
+  }
+}
+@media (min-width: 1100px) and (max-width: 1464px) {
+  html[lang="ar"] .home-page-tabs li a .active {
+    min-height: 64px;
+  }
+}
+@media (min-width: 610px) and (max-width: 631px) {
+  html[lang="ar"] .home-page-tabs li a .active {
+    min-height: 84px;
+  }
+}
+html[lang="ar"] .gaming-heroshot {
+  background-image: url(https://www.chetu.com/img/sliderbg/Gaming.jpg);
+}
+@media (min-width: 992px) and (max-width: 1366px) {
+  html[lang="ar"] .timer-sec .App-Built,
+  html[lang="ar"] .timer-sec .Happy-Customers,
+  html[lang="ar"] .timer-sec .Repeat-Business,
+  html[lang="ar"] .timer-sec .Developers {
+    min-height: 201px;
+  }
+}
+html[lang="ar"] .ch-model-section-img {
+  height: 320px;
+}
+html[lang="ar"] .ch-model-section .bg-white-trans {
+  height: 320px;
+}
+html[lang="ar"] .gaming-software-text .site-button {
+  width: 150px;
+}
+html[lang="ar"] .spanish-video-game .video-game {
+  min-height: 400px;
+}
+html[lang="ar"] .display-flex-home .heroshot-title h1 {
+  font-size: 44px;
+}
+@media (min-width: 1200px) {
+  html[lang="ar"] .sorting select.case-study-seclect-width-industry {
+    width: 85%;
+  }
+}
+@media (min-width: 1200px) {
+  html[lang="ar"] .sorting select.case-study-seclect-width-technology {
+    width: 80%;
+  }
+}
+@media (min-width: 0) and (max-width: 768px) {
+  html[lang="ar"] .newsroom-tab li {
+    width: 100%;
+    text-align: center;
+  }
+}
+html[lang="ar"] .pruvan-relevant-margin {
+  margin-left: 110px !important;
+}
+html[lang="ar"] .ms-heroshot-title-es h1 {
+  font-size: 36px !important;
+}
+html[lang="ar"] .travelport-portfolio-black p {
+  font-size: 44px;
+}
+html[lang="ar"] .Agencies-box {
+  min-height: 450px;
+}
+html[lang="ar"] .aviation-video-game {
+  min-height: 423px;
+}
+html[lang="ar"] .magento-portfolio-black p {
+  font-size: 45px;
+}
+@media (min-width: 1200px) and (max-width: 1400px) {
+  html[lang="ar"] .background-bg-row-spanish {
+    min-height: 740px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+  html[lang="ar"] .background-bg-row-spanish {
+    min-height: 1075px;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1400px) {
+  html[lang="ar"] .oracle-erp-box-spanish {
+    min-height: 492px;
+  }
+}
+html[lang="ar"] .video-game.es-scm-box {
+  height: 280px;
+}
+@media (min-width: 768px) {
+  html[lang="ar"] .porfolio-box p {
+    height: 75px;
+  }
+}
+html[lang="ar"] .video-game-height-es {
+  min-height: 400px;
+}
+@media (min-width: 992px) and (max-width: 1500px) {
+  html[lang="ar"] .oracle-service-sec-es {
+    padding-bottom: 150px;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1400px) {
+  html[lang="ar"] .oracle-service-sec-es .crm-box-es-height-405 {
+    height: 530px;
+  }
+}
+@media (min-width: 1076px) and (max-width: 1199px) {
+  html[lang="ar"] .oracle-service-sec-es .crm-box-es-height-405 {
+    height: 460px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1075px) {
+  html[lang="ar"] .oracle-service-sec-es .crm-box-es-height-405 {
+    height: 545px;
+  }
+}
+html[lang="ar"] .video-game-agricalture ul li {
+  font-size: 13px;
+}
+html[lang="ar"] .transportation-video-game-es ul li {
+  line-height: 27px;
+}
+html[lang="ar"] .sap-business-box {
+  min-height: 320px;
+}
+@media (min-width: 1401px) and (max-width: 1750px) {
+  html[lang="ar"] .sap-business-box {
+    min-height: 400px;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1400px) {
+  html[lang="ar"] .sap-business-box {
+    min-height: 500px;
+  }
+}
+html[lang="ar"] .video-game.crm-box.crm-box-height-405 {
+  height: 460px;
+}
+@media (min-width: 992px) and (max-width: 1100px) {
+  html[lang="ar"] .video-game.crm-box.crm-box-height-405 {
+    height: 540px;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1330px) {
+  html[lang="ar"] .video-game.crm-box.crm-box-height-405 {
+    height: 540px;
+  }
+}
+/*# sourceMappingURL=es.css.map */
+
+/* Common Classes starts */
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.justify-content-start {
+  justify-content: start;
+}
+
+.justify-content-end {
+  justify-content: end;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.align-items-end {
+  align-items: end;
+}
+
+.gap-1 {
+  gap: 1rem;
+}
+
+.gap-2 {
+  gap: 2rem;
+}
+
+.w-35 {
+  width: 35px;
+}
+
+.w-170 {
+  width: 170px;
+}
+
+.text-align-start {
+  text-align: start;
+}
+
+/* Common Classes Ends */
+
+/* Navigation Starts */
+
+#lang-nav.ar-lang-nav li:hover ul {
+  left: -176px;
+}
+
+.navbar-nav.primary-nav .dropdown .arrow-sec.arrow-down::before {
+  left: 1px !important;
+}
+
+.navbar-nav.primary-nav .dropdown .arrow-sec.arrow-down::after {
+  left: 6px !important;
+}
+
+.mega-menu .mega-menu-content ul.border-left {
+  border-left: 0;
+}
+@media (min-width: 1200px) {
+  .mega-menu .mega-menu-content ul.border-left {
+    border-left: 1px solid #5c159d;
+    border-right: 0 !important;
+  }
+}
+
+@media (min-width: 1255px) {
+  .navbar-nav.primary-nav .dropdown .dropdown-toggle-hover {
+    padding-right: 0;
+    padding-left: 25px;
+  }
+}
+
+/* Navigation Ends */
+
+/* Footer css Starts */
+
+.ar-location-icon {
+  width: 22px;
+  height: 32px;
+}
+
+@media (max-width: 992px) {
+  .ar-award-section {
+    display: flex;
+    justify-content: start;
+  }
+}
+
+/* Footer css Ends */
+
+
+/* Breadcrumb css */
+.breadcrumb li+li::before {
+        display: none;
+    }
+
+    .breadcrumb li+li::after {
+        padding: 0 5px;
+        color: #767171;
+        content: url(https://www.chetu.com/img/icons/breadcrumb-arrow.png);
+        font-size: 20px;
+        position: absolute;
+        height: 15px;
+        width: 10px;
+        top: 7px;
+        right: -14px;
+        rotate: 180deg;
+    }
+
+
+/* faqs css */
+
+.collapsible:after,
+    .collapsible:before {
+        color: #5c159d;
+        float: left;
+    }
+
+    .collapsible:hover {
+        color: #5c159d;
+    }
+
+    .collapsible:hover:after {
+        color: #5c159d;
+    }
+
+    .collapsible {
+        color: #5c159d;
+        border-bottom: 2px solid #5c159d;
+        text-align: right;
+    }
+
+    .collapsibles {
+        background: #fff;
+        color: #5c159d;
+        border-bottom: 2px solid #5c159d !important;
+        cursor: pointer;
+        padding: 10px 0 10px 0;
+        width: 100%;
+        border: none;
+        text-align: left;
+        outline: none;
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .content {
+        border: none;
+    }
+
+    .collapsible:after {
+        top: 5px;
+    }
+
+    .collapsibles:after {
+        color: #5c159d;
+        font-weight: bold;
+        float: right;
+        margin-left: 5px;
+        border-style: solid;
+        border-width: 2px 2px 0 0;
+        content: '';
+        display: inline-block;
+        height: 10px;
+        right: 5px;
+        position: relative;
+        top: 5px;
+        transform: rotate(135deg);
+        vertical-align: top;
+        width: 10px;
+    }
+
+    .active-contacts:after {
+        color: #5c159d;
+        font-weight: bold;
+        float: right;
+        margin-left: 5px;
+        border-style: solid;
+        border-width: 2px 2px 0 0;
+        content: '';
+        display: inline-block;
+        height: 10px;
+        right: 5px;
+        position: relative;
+        top: 5px;
+        transform: rotate(-45deg);
+        vertical-align: top;
+        width: 10px;
+    }
+
+
+    /* arabic alignment */
+
+
+@media screen and (min-width: 768px) {
+  .ar-alignment {
+        display: flex;
+
+    }
+
+    .ar-alignment h3 {
+        text-align: right !important;
+
+    }
+}
+
+/* bullet point css */
+
+.listbulletblackcircle li {
+    background-position: right 2px;
+    padding-right: 34px;
+}
+
+    
+/* live chat visibility hidden  */
+#transparent-button{
+  visibility:hidden;
+} 
+
+.arNum_Switch span{
+    direction: ltr;
+    display: table-footer-group;
+    
+}
+.arNum_Switch img{
+  margin-left: 5px;
+}
