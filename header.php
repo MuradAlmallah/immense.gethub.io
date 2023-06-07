@@ -63,15 +63,15 @@
                 <div data-toggle="collapse" data-target="#chetu-nav" class="navbar-toggle navbar-toggle-button cd-header-buttons">
                     <div id="bar"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></div>
                 </div>
-                <a class="navbar-brand navbar-brand-sticky image-height no-margin-left logo-white active" href="index.html">
+                <a class="navbar-brand navbar-brand-sticky image-height no-margin-left logo-white active" href="index.php">
                     <img src="img/Untitled design (31).png" alt="logo" class="img-responsive" width="265" height="115" /></a>
-                <a class="navbar-brand navbar-brand-sticky image-height no-margin-left logo-teal" href="index.html">
+                <a class="navbar-brand navbar-brand-sticky image-height no-margin-left logo-teal" href="index.php">
                     <svg xmlns="http://www.w3.org/2000/svg" width="265" height="115" viewBox="0 0 265 115" fill="none"></svg></a>
             </div>
             
             <div id="chetu-nav" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav primary-nav" id="cd-primary-nav">
-                    <li class="on-demand-develop padding-right-15"><a href="index.html" class="dropdown-toggle-hover">الرئيسية</a></a></li>
+                    <li class="on-demand-develop padding-right-15"><a href="index.php" class="dropdown-toggle-hover">الرئيسية</a></a></li>
                     <li class="dropdown" dir="ltr"><a href="#" data-toggle="dropdown" class="dropdown-toggle dropdown-toggle-hover arrow-sec arrow-down arrow-down arrow-down">الحلول</a>
                         <ul role="menu" class="dropdown-menu dropdown-single text-align-start" dir="rtl">
                             <li><a href="animationgraphicdesign.php" class="remove-dropdown-icon">الرسوم المتحركة والتصميم الجرافيكي</a></li>
